@@ -56,8 +56,9 @@ accounting-anna/
 ## Vision & Roadmap
 Accounting Anna aims to provide a seamless, automated solution for personal and business financial data management. Future plans include expanded account support, advanced analytics, and user-friendly reporting tools.
 
-## How to Contribute or Contact
-This repository is for documentation only. For questions, feedback, or collaboration, please open an issue or contact the project owner via GitHub.
+
+## Interested in more details?
+- Contact: oliver.lubinus@gmail.com
 
 ---
 
