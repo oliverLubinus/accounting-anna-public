@@ -1,6 +1,6 @@
 # Accounting Anna
 
-Welcome to the public documentation for Accounting Anna, an automated financial data processing and aggregation system.
+Welcome to the public documentation for Accounting Anna, an automated financial data processing and aggregation agent.
 
 ## Project Overview
 Accounting Anna streamlines the extraction, cleaning, and aggregation of financial statements from various sources, enabling users to generate unified transaction streams and personal accounting reports with minimal manual effort.
